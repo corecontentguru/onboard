@@ -24,5 +24,12 @@
       git remote add origin https://github.com/corecontentguru/common.git   /* or dataaccess.git... */
       git push -u origin master     /* you may need check in different branch */
     
-  
+3. thirdpaty open source jar
+     
+    /thirdparty/
+    
+    add third party jar, example: 
+    
+    /thirdparty/lucene-4.0.0/core/lucene-core-4.0.0.jar
+    
 
