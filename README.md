@@ -26,10 +26,10 @@
     
 3. thirdpaty open source jar
      
-        /thirdparty/
+        /codebase/corecontent/thirdparty/
     
     add third party jar, example: 
     
-        /thirdparty/lucene-4.0.0/core/lucene-core-4.0.0.jar
+        /codebase/corecontent/thirdparty/lucene-4.0.0/core/lucene-core-4.0.0.jar
     
 
