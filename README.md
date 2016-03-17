@@ -10,8 +10,8 @@
   2.2 clone code from git hub
     
       git init
-      git clone git clone https://github.com/corecontentguru/dataaccess.git
-      git clone git clone https://github.com/corecontentguru/common.git
+      git clone https://github.com/corecontentguru/dataaccess.git
+      git clone https://github.com/corecontentguru/common.git
       ....
   2.3 check in code
       after you modify code or create new file, you can check in your code.
