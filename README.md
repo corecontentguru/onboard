@@ -33,3 +33,5 @@
         /codebase/corecontent/thirdparty/lucene-4.0.0/core/lucene-core-4.0.0.jar
     
 
+How to get list of all search keyword in Lucene?
+http://stackoverflow.com/questions/1226410/how-to-get-list-of-all-search-keyword-in-lucene
